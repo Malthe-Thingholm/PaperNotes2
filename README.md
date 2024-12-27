@@ -2,16 +2,16 @@ Repo format forked from [Daniel Takeshi][1] to document my reading of papers, ro
 
 Contents:
 
-- [Deep Learning](#K8s)
-    - [2025 Papers](#2025-dl-papers)
-    - [2024 Papers](#2024-dl-papers)
+- [Kubernetes](#K8s)
+    - [2025 Papers](#2025-K8s-papers)
+    - [2024 Papers](#2024-K8s-papers)
 
-# Deep Learning
+# Kubernetes
 
-## 2025 DL Papers
+## 2025 K8s Papers
 
 
-## 2024 DL Papers
+## 2024 K8s Papers
 
 - [Making Secure Software Insecure without Changing Its Code: The Possibilities and Impacts of Attacks on the DevOps Pipeline:](https://arxiv.org/pdf/2201.12879)
 - [Cloud Native Robotic Applications with GPU Sharing on Kubernetes](https://arxiv.org/pdf/2210.03936)
