@@ -1,0 +1,8 @@
+# Monitoring Auditable Claims in the Cloud
+Monitoring Auditable Claims in the Cloud [arXiv:2312.12057](https://arxiv.org/abs/2312.12057)
+
+Most of the specifics in the paper I find to be not very useful, as its main point is describing Cyberlog, their extension of Datalog which seems to be a language specifically for specifying logging. 
+
+Aside from that, they raise a couple of points through their example that are quite universally valid. Logging is often important, and a valuable type of logging that fits with the K8s stack is to store central claims in some data storage to then be validated by the participating services. I currently am of the impression that Istio mainly monitors logging through Envoy accesses so such logging would probably need to be made custom on a case-by-case basis (or further programs would need to be added to the stack). 
+
+Additionally, they talk a bit about staging and such, and with their example being through UAV drones got me thinking of a more 'factory centric' example. In the case of a cloud-controlled robotic factory with human workers, the service that overall controls a robotic arm should be logged and when executing actions in the next timeframe choose the highest priority command given. Fx. emergency stop by either manual human supervisor input or through sensors being given some super high priority in comparison to normal actions, so that in the case of an accident (fx. worker falling into machinery) the machinery stops instead of proceeding with its former queue of commanded actions. Logging these actions then also helps resolve responsibility if the robot didn't stop even with those commands. 
