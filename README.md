@@ -26,6 +26,7 @@ Contents:
 - [Monitoring Auditable Claims in the Cloud](https://arxiv.org/pdf/2312.12057)
 - [A Framework for dynamically meeting performance objectives on a service mesh](https://arxiv.org/pdf/2306.14178)
 - [Exploiting Kubernetes’ Image Pull Implementation to Deny Node Availability](https://arxiv.org/pdf/2401.10582)
+- [XI Commandments of Kubernetes Security: A Systematization of Knowledge Related to Kubernetes Security Practices](https://arxiv.org/pdf/2006.15275)
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
  
