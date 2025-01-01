@@ -9,7 +9,7 @@ Contents:
 # Kubernetes
 
 ## 2025 K8s Papers
-
+- [Kubernetes Deployment Options for On-Prem Clusters](https://arxiv.org/pdf/2407.01620)
 
 ## 2024 K8s Papers
 
