@@ -28,5 +28,11 @@ Contents:
 - [Exploiting Kubernetes’ Image Pull Implementation to Deny Node Availability](https://arxiv.org/pdf/2401.10582)
 - [XI Commandments of Kubernetes Security: A Systematization of Knowledge Related to Kubernetes Security Practices](https://arxiv.org/pdf/2006.15275)
 
+# Assorted
+
+## 2025 Assorted Papers
+
+- [Process-Aware Intrusion Detection in MQTT Networks](https://dl.acm.org/doi/pdf/10.1145/3626232.3653271)
+
 [1]:https://github.com/DanielTakeshi/Paper_Notes
  
