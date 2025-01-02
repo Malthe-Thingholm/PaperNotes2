@@ -5,6 +5,8 @@ Contents:
 - [Kubernetes](#K8s)
     - [2025 Papers](#2025-K8s-papers)
     - [2024 Papers](#2024-K8s-papers)
+- [Assorted](#Assorted)
+    - [2025 Papers](#2025-Assorted-papers)
 
 # Kubernetes
 
