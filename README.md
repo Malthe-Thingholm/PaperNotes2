@@ -14,6 +14,7 @@ Contents:
 - [Kubernetes Deployment Options for On-Prem Clusters](https://arxiv.org/pdf/2407.01620)
 - [Understanding the Security Implications of Kubernetes Networking](https://balakrishnanc.github.io/papers/minna-ieeesp2021.pdf)
 - [Automated Detection and Management of Deprecated Helm Releases in Kubernetes Clusters](https://www.researchgate.net/profile/Ionut-Catalin-Donca/publication/376024259_Automated_Detection_and_Management_of_Deprecated_Helm_Releases_in_Kubernetes_Clusters/links/6569f3c1b86a1d521b25fd75/Automated-Detection-and-Management-of-Deprecated-Helm-Releases-in-Kubernetes-Clusters.pdf)
+- [Container Orchestration Honeypot: Observing Attacks in the Wild](https://dl.acm.org/doi/pdf/10.1145/3607199.3607205)
 
 ## 2024 K8s Papers
 
