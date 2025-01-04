@@ -17,6 +17,7 @@ Contents:
 - [Container Orchestration Honeypot: Observing Attacks in the Wild](https://dl.acm.org/doi/pdf/10.1145/3607199.3607205)
 - [Collaborative Computing Support for Analysis Facilities Exploiting Software as Infrastructure Techniques
 ](https://arxiv.org/pdf/2203.10161)
+[Do Cloud Developers Prefer CLIs or Web Consoles?](https://arxiv.org/pdf/2209.07365)
 ## 2024 K8s Papers
 
 - [Making Secure Software Insecure without Changing Its Code: The Possibilities and Impacts of Attacks on the DevOps Pipeline:](https://arxiv.org/pdf/2201.12879)
