@@ -1,0 +1,4 @@
+# 5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks
+5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks [arXiv:2311.03206](https://arxiv.org/abs/2311.03206)
+
+In comparison to the 'Advantages and challenges' paper, this one isn't centered on the subletting algorithm itself, but instead the pipelining for the network, from how they build images with 'Buildah' to illustrations over their pipelines and physical components. Very useful paper to model ones own pipelines after, and leads to the thought that if many resources went into setting up procedures and environments and setups etc. for how RAN setups should be then if what they end with is open-source it very well could be applicable to how other companies could set up their systems with less work.
