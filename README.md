@@ -40,6 +40,7 @@ Contents:
 ## 2025 Assorted Papers
 
 - [Process-Aware Intrusion Detection in MQTT Networks](https://dl.acm.org/doi/pdf/10.1145/3626232.3653271)
+- Advantages and challenges of adopting cloud computing from an enterprise perspective INTER-ENG 2013
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
  
