@@ -2,9 +2,11 @@ Repo format forked from [Daniel Takeshi][1] to document my reading of papers, ro
 
 Contents:
 
-- [Kubernetes](#K8s)
+- [Kubernetes](#Kubernetes)
     - [2025 Papers](#2025-K8s-papers)
     - [2024 Papers](#2024-K8s-papers)
+- [Radio Access Networks](#Radio-Access-Networks)
+    - [2025 Papers](2025-RAN-Papers)
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
 
@@ -34,6 +36,13 @@ Contents:
 - [A Framework for dynamically meeting performance objectives on a service mesh](https://arxiv.org/pdf/2306.14178)
 - [Exploiting Kubernetes’ Image Pull Implementation to Deny Node Availability](https://arxiv.org/pdf/2401.10582)
 - [XI Commandments of Kubernetes Security: A Systematization of Knowledge Related to Kubernetes Security Practices](https://arxiv.org/pdf/2006.15275)
+
+# Radio Access Networks
+
+## 2025 RAN Papers
+- [NeutRAN: An Open RAN Neutral Host Architecture for Zero-Touch RAN and Spectrum Sharing](https://arxiv.org/pdf/2301.07653)
+- [5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks](https://arxiv.org/pdf/2311.03206)
+- [ScalO-RAN: Energy-aware Network Intelligence Scaling in Open RAN](https://arxiv.org/pdf/2312.05096)
 
 # Assorted
 
