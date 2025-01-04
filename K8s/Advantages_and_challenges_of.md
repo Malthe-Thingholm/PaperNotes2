@@ -1,0 +1,4 @@
+# Advantages and challenges of adopting cloud computing from an enterprise perspective
+Advantages and challenges of adopting cloud computing from an enterprise perspective - The 7th International Conference Interdisciplinarity in Engineering (INTER-ENG 2013)
+
+More of a 'historical' paper outlining the then current wishes for cloud computing. Mostly about lowering the barrier to entry which has succeeded in the sense that cloud providers allow applications that aren't cloud-native per se a lower barrier of entry through abstracting away hardware needs. In the sense of truly developing for cloud-native with microservice architectures in mind, there is still a long way to go with the frameworks themselves being a hurdle and some swarms of services ending up as intertwined as older monolithic systems. 
