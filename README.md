@@ -20,7 +20,7 @@ Contents:
 - [Container Orchestration Honeypot: Observing Attacks in the Wild](https://dl.acm.org/doi/pdf/10.1145/3607199.3607205)
 - [Collaborative Computing Support for Analysis Facilities Exploiting Software as Infrastructure Techniques](https://arxiv.org/pdf/2203.10161)
 - [Do Cloud Developers Prefer CLIs or Web Consoles?](https://arxiv.org/pdf/2209.07365)
-- [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://d1wqtxts1xzle7.cloudfront.net/108199711/3539606-libre.pdf?1701535425=&response-content-disposition=inline%3B+filename%3DKubernetes_Scheduling_Taxonomy_Ongoing_I.pdf&Expires=1736073588&Signature=NNCprpet8vN9ktqxylDFUBx4gHlPCjRBrZ5nKahtw1VA2iUqr7L5lAdx7BheeaUviHlRzVA67oa4l3vZtYGHWAvWPpIoX-h65HaaDDw9WXBL9G1S9u8MWBa4KV5j7CWv-H7GkearMcYc6F0fMN6r8XqE74IxPQcUFcdJcyFlnR~R7YuHgS4zN~PdpxQF76J5ym1PyYkqB-l67tsF4w-3l1y59J4zPQfvmodYL0mayK~JV6F4oGq~ZZSbqy1YY6E49YWXVBp6AhY-Qh3u1Eg~1qt6-8M2W3TIRjnuofv5MYM0B5cqio6HxznYMta9DNwbSKrr3AYi73qXC3JQud~ucQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)*
+- [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://dl.acm.org/doi/abs/10.1145/3539606)*
 
 ## 2024 K8s Papers
 
