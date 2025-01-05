@@ -1,0 +1,7 @@
+# A survey of Kubernetes scheduling algorithms
+A survey of Kubernetes scheduling algorithms [https://link.springer.com/article/10.1186/s13677-023-00471-1](https://link.springer.com/article/10.1186/s13677-023-00471-1)
+
+A comprehensive survey paper, although one I prefer less than 'Kubernetes Scheduling: Taxonomy, ongoing issues and challenges'.
+
+The most useful parts are the tables that have annoyingly been inserted 'rotated'. Each paper also gets a short blurb where their category of approach is listed together with their percentage increase, or whatever other gain it provides. The survey itself does not provide many thoughts themselves other than the opinion that AI-based approaches has a weakness in that they're often trained on synthesized data (an opinion i share).
+
