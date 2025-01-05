@@ -1,4 +1,4 @@
-Repo format inspired by [Daniel Takeshi][1] to document my reading of papers with some short notes for each, roughly sorted into topics in folders for any notes and kept track of in this ReadMe. For personal tracking of papers I want to revisit I'm marking those with a '*'.
+Repo format inspired by [Daniel Takeshi][1] to document my reading of papers, short notes for each paper are sorted into folders in this repo. With this ReadMe serving as a table of contents. Papers marked with '*' i find suitable for revisits.
 
 Contents:
 
@@ -21,6 +21,7 @@ Contents:
 - [Collaborative Computing Support for Analysis Facilities Exploiting Software as Infrastructure Techniques](https://arxiv.org/pdf/2203.10161)
 - [Do Cloud Developers Prefer CLIs or Web Consoles?](https://arxiv.org/pdf/2209.07365)
 - [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://dl.acm.org/doi/abs/10.1145/3539606)*
+- [A survey of Kubernetes scheduling algorithms](https://link.springer.com/article/10.1186/s13677-023-00471-1)*
 
 ## 2024 K8s Papers
 
