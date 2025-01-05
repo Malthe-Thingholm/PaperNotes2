@@ -1,4 +1,4 @@
-Repo format inspired by [Daniel Takeshi][1] to document my reading of papers, roughly sorted into topics in folders for any notes and kept track of in this ReadMe. For personal tracking of papers I want to revisit I'm marking those with a '*'.
+Repo format inspired by [Daniel Takeshi][1] to document my reading of papers with some short notes for each, roughly sorted into topics in folders for any notes and kept track of in this ReadMe. For personal tracking of papers I want to revisit I'm marking those with a '*'.
 
 Contents:
 
