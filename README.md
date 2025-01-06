@@ -22,6 +22,7 @@ Contents:
 - [Do Cloud Developers Prefer CLIs or Web Consoles?](https://arxiv.org/pdf/2209.07365)
 - [Kubernetes Scheduling: Taxonomy, ongoing issues and challenges](https://dl.acm.org/doi/abs/10.1145/3539606)*
 - [A survey of Kubernetes scheduling algorithms](https://link.springer.com/article/10.1186/s13677-023-00471-1)*
+- [Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833803)
 
 ## 2024 K8s Papers
 
@@ -54,7 +55,6 @@ Contents:
 - [Process-Aware Intrusion Detection in MQTT Networks](https://dl.acm.org/doi/pdf/10.1145/3626232.3653271)
 - [Advantages and challenges of adopting cloud computing from an enterprise perspective INTER-ENG 2013](https://www.researchgate.net/publication/275539197_Advantages_and_Challenges_of_Adopting_Cloud_Computing_from_an_Enterprise_Perspective)
 - [Markov games as a framework for multi-agent reinforcement learning](https://courses.cs.duke.edu/spring07/cps296.3/littman94markov.pdf)
-- [Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833803)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
