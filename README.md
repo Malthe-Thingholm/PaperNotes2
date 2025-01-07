@@ -24,6 +24,7 @@ Contents:
 - [A survey of Kubernetes scheduling algorithms](https://link.springer.com/article/10.1186/s13677-023-00471-1)*
 - [Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833803)
 - [SECURITY IN KUBERNETES: BEST PRACTICES AND SECURITY ANALYSIS](https://www.researchgate.net/publication/361589023_SECURITY_IN_KUBERNETES_BEST_PRACTICES_AND_SECURITY_ANALYSIS)
+- Building A Zero Trust Architecture Using Kubernetes
 
 ## 2024 K8s Papers
 
