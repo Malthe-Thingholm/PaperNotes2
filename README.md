@@ -26,6 +26,7 @@ Contents:
 - [SECURITY IN KUBERNETES: BEST PRACTICES AND SECURITY ANALYSIS](https://www.researchgate.net/publication/361589023_SECURITY_IN_KUBERNETES_BEST_PRACTICES_AND_SECURITY_ANALYSIS)
 - Building A Zero Trust Architecture Using Kubernetes
 - [Secure Kubernetes Networking Design Based on Zero Trust Model: A Case Study of Financial Service Enterprise in Indonesia](https://www.researchgate.net/publication/333879377_Secure_Kubernetes_Networking_Design_Based_on_Zero_Trust_Model_A_Case_Study_of_Financial_Service_Enterprise_in_Indonesia)
+- [A case analysis for Kubernetes network security of financial service industry in Indonesia using zero trust model](https://www.researchgate.net/publication/374352268_A_case_analysis_for_Kubernetes_network_security_of_financial_service_industry_in_Indonesia_using_zero_trust_model)
 
 ## 2024 K8s Papers
 
