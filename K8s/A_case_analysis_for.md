@@ -1,0 +1,4 @@
+# A case analysis for Kubernetes network security of financial service industry in Indonesia using zero trust model
+A case analysis for Kubernetes network security of financial service industry in Indonesia using zero trust model [https://www.researchgate.net/publication/374352268_A_case_analysis_for_Kubernetes_network_security_of_financial_service_industry_in_Indonesia_using_zero_trust_model](https://www.researchgate.net/publication/374352268_A_case_analysis_for_Kubernetes_network_security_of_financial_service_industry_in_Indonesia_using_zero_trust_model)
+
+Another paper on Zero Trust, specified as an extension of the last paper which did not leave much of an impression, this one delivers in a similar fashion. Not much is extended upon except in detailing a penetration test and some new illustrations, though some text was reworded and some segments cut.
