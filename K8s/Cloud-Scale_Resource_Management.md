@@ -1,0 +1,6 @@
+# Cloud-Scale Resource Management: Challenges and Techniques
+Cloud-Scale Resource Management: Challenges and Techniques [https://www.usenix.org/legacy/event/hotcloud11/tech/final_files/Gulati.pdf](https://www.usenix.org/legacy/event/hotcloud11/tech/final_files/Gulati.pdf)
+
+Another old paper, it showcases another mindset of early cloud orchestration, this one an approach that to my knowledge hasn't taken off. A central thing (subjectively perhaps) is the hierarchy they introduce between 'clusters', though they aren't really clusters but more their claim to physical hardware. To find a similar subject in current Kubernetes i believe there exists extensions that add something similar, fx. 'Hierarchical Namespaces' from 'HNC'. 
+
+I am however of the opinion that such hierarchical thinking doesn't really make sense in the current climate, perhaps to introduce the idea of what can be culled. In that case i think that most cases would be better suited by having a stronger focus on making pods burstable and in general constructing your clusters to support that methodology. In the case of one cluster dominating another in importance you could consider that entire cluster burstable and then 'Hierarchical Namespaces' would make great sense (probably).
