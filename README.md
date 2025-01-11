@@ -32,6 +32,7 @@ Contents:
 - [Navigating the Cloud Native Landscape: A Comprehensive Guide for Businesses](https://www.researchgate.net/publication/381801460_Navigating_the_Cloud_Native_Landscape_A_Comprehensive_Guide_for_Businesses)
 - [Lightweight Resource Scaling for Cloud Applications](https://www.researchgate.net/publication/254038619_Lightweight_Resource_Scaling_for_Cloud_Applications)
 - [Cloud-Scale Resource Management: Challenges and Techniques](https://www.usenix.org/legacy/event/hotcloud11/tech/final_files/Gulati.pdf)
+- [Chamulteon: Coordinated Auto-Scaling of Micro-Services](https://atlarge-research.com/pdfs/2019-bauer-icdcs-chamulteon.pdf)
 
 
 ## 2024 K8s Papers
