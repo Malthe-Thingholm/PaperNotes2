@@ -33,6 +33,7 @@ Contents:
 - [Lightweight Resource Scaling for Cloud Applications](https://www.researchgate.net/publication/254038619_Lightweight_Resource_Scaling_for_Cloud_Applications)
 - [Cloud-Scale Resource Management: Challenges and Techniques](https://www.usenix.org/legacy/event/hotcloud11/tech/final_files/Gulati.pdf)
 - [Chamulteon: Coordinated Auto-Scaling of Micro-Services](https://atlarge-research.com/pdfs/2019-bauer-icdcs-chamulteon.pdf)
+- [Atoll: A Scalable Low-Latency Serverless Platform](https://dl.acm.org/doi/pdf/10.1145/3472883.3486981)
 
 
 ## 2024 K8s Papers
