@@ -7,6 +7,8 @@ Contents:
     - [2024 Papers](#2024-K8s-papers)
 - [Radio Access Networks](#Radio-Access-Networks)
     - [2025 Papers](#2025-RAN-Papers)
+- [Microprocessor](#Microprocessor)
+    - [2025 Papers](#2025-MP-Papers)
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
 
@@ -59,6 +61,11 @@ Contents:
 - [NeutRAN: An Open RAN Neutral Host Architecture for Zero-Touch RAN and Spectrum Sharing](https://arxiv.org/pdf/2301.07653)
 - [5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks](https://arxiv.org/pdf/2311.03206)
 - [ScalO-RAN: Energy-aware Network Intelligence Scaling in Open RAN](https://arxiv.org/pdf/2312.05096)
+
+# Microprocessor
+
+## 2025 MP Papers
+- [Reverse Engineering x86 Processor Microcode](https://arxiv.org/pdf/1910.00948)
 
 # Assorted
 
