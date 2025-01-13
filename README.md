@@ -36,6 +36,7 @@ Contents:
 - [Cloud-Scale Resource Management: Challenges and Techniques](https://www.usenix.org/legacy/event/hotcloud11/tech/final_files/Gulati.pdf)
 - [Chamulteon: Coordinated Auto-Scaling of Micro-Services](https://atlarge-research.com/pdfs/2019-bauer-icdcs-chamulteon.pdf)
 - [Atoll: A Scalable Low-Latency Serverless Platform](https://dl.acm.org/doi/pdf/10.1145/3472883.3486981)
+- [Evolving High-Performance Computing Data Centers with Kubernetes, Performance Analysis, and Dynamic Workload Placement Based on Machine Learning Scheduling](https://www.mdpi.com/2079-9292/13/13/2651)
 
 
 ## 2024 K8s Papers
