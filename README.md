@@ -38,6 +38,7 @@ Contents:
 - [Atoll: A Scalable Low-Latency Serverless Platform](https://dl.acm.org/doi/pdf/10.1145/3472883.3486981)
 - [Evolving High-Performance Computing Data Centers with Kubernetes, Performance Analysis, and Dynamic Workload Placement Based on Machine Learning Scheduling](https://www.mdpi.com/2079-9292/13/13/2651)
 - [Cloud-Native Computing: A Survey from the Perspective of Services](https://arxiv.org/pdf/2306.14402)*
+- [A Self-adaptive Approach for Managing Applications and Harnessing Renewable Energy for Sustainable Cloud Computing](https://arxiv.org/pdf/2008.13312)
 
 
 ## 2024 K8s Papers
