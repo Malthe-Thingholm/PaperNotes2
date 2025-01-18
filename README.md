@@ -40,6 +40,7 @@ Contents:
 - [Cloud-Native Computing: A Survey from the Perspective of Services](https://arxiv.org/pdf/2306.14402)*
 - [A Self-adaptive Approach for Managing Applications and Harnessing Renewable Energy for Sustainable Cloud Computing](https://arxiv.org/pdf/2008.13312)
 - [Stratus: cost-aware container scheduling in the public cloud](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p121-Chung.pdf)
+- [A Cost-Efficient Container Orchestration Strategy in Kubernetes-Based Cloud Computing Infrastructures with Heterogeneous Resources](http://clouds.cis.unimelb.edu.au/papers/HeteroContainerCloud-TOIT.pdf)*
 
 
 ## 2024 K8s Papers
