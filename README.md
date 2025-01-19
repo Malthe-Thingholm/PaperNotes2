@@ -41,6 +41,7 @@ Contents:
 - [A Self-adaptive Approach for Managing Applications and Harnessing Renewable Energy for Sustainable Cloud Computing](https://arxiv.org/pdf/2008.13312)
 - [Stratus: cost-aware container scheduling in the public cloud](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p121-Chung.pdf)
 - [A Cost-Efficient Container Orchestration Strategy in Kubernetes-Based Cloud Computing Infrastructures with Heterogeneous Resources](http://clouds.cis.unimelb.edu.au/papers/HeteroContainerCloud-TOIT.pdf)*
+- [Riot Tech Blog: Improving Performance by Streamlining League’s Server Selection](https://www.riotgames.com/en/news/tech-blog-cpu-usage)
 
 
 ## 2024 K8s Papers
