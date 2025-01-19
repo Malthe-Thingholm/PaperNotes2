@@ -1,0 +1,6 @@
+# Riot Tech Blog: Improving Performance by Streamlining League’s Server Selection
+Riot Tech Blog: Improving Performance by Streamlining League’s Server Selection[http://clouds.cis.unimelb.edu.au/papers/HeteroContainerCloud-TOIT.pdf](http://clouds.cis.unimelb.edu.au/papers/HeteroContainerCloud-TOIT.pdf)
+
+Fun 'paper'. Not very rigorous in its comparisons, but it's an interesting problem setting seemingly mainly defined by: service length distributions that I could be convinced are normal distributions, traffic distribution depending on location and time, and a ramping CPU resource cost for all services. Why they have such a ramping CPU cost, from my familiarity with their service, I do not quite get.
+
+I'm not certain that I agree with their choice of scheduling. My intuition would be to 'eat' the startup cost of a bunch of pods and continually schedule to those, with the amount of pods being such that we would expect to hit a certain utilization (fx. 80%) for them when the process is fully up and running, with some elasticity, particularly in the case of spikes in traffic. Time from startup to full steam would obviously not exceed the median service time by much. What leads me to probably agree with their approach is that their tech-stack isn't natively microservice oriented, and thus they probably have encountered outside problems limiting them.
