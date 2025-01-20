@@ -42,6 +42,7 @@ Contents:
 - [Stratus: cost-aware container scheduling in the public cloud](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p121-Chung.pdf)
 - [A Cost-Efficient Container Orchestration Strategy in Kubernetes-Based Cloud Computing Infrastructures with Heterogeneous Resources](http://clouds.cis.unimelb.edu.au/papers/HeteroContainerCloud-TOIT.pdf)*
 - [Riot Tech Blog: Improving Performance by Streamlining League’s Server Selection](https://www.riotgames.com/en/news/tech-blog-cpu-usage)
+- [Locality-Aware Scheduling for Containers in Cloud Computing](https://ieeexplore.ieee.org/document/8259462)
 
 
 ## 2024 K8s Papers
