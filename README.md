@@ -43,6 +43,7 @@ Contents:
 - [A Cost-Efficient Container Orchestration Strategy in Kubernetes-Based Cloud Computing Infrastructures with Heterogeneous Resources](http://clouds.cis.unimelb.edu.au/papers/HeteroContainerCloud-TOIT.pdf)*
 - [Riot Tech Blog: Improving Performance by Streamlining League’s Server Selection](https://www.riotgames.com/en/news/tech-blog-cpu-usage)
 - [Locality-Aware Scheduling for Containers in Cloud Computing](https://ieeexplore.ieee.org/document/8259462)
+- [Load Balancing for Interdependent IoT Microservices](https://ruozhouy.github.io/docs/infocom-19-paper.pdf)
 
 
 ## 2024 K8s Papers
