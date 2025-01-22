@@ -1,0 +1,6 @@
+# Consistent User-Traffic Allocation and Load Balancing in Mobile Edge Caching
+Consistent User-Traffic Allocation and Load Balancing in Mobile Edge Caching [arXiv:1904.07018](https://arxiv.org/abs/1904.07018)
+
+Great paper, love the use of approximation with a guarantee of their constructed optimization problem. Good greedy algorithm as well. 
+
+The problem setting itself is as follows: you have copies of a service distributed, each copy dynamically gets better at servicing the traffic allocated to it, as such you keep the type of requests to it similar (can be domain or users or a combination). As such the services are no longer exact copies data-wise. In this case the copies also have a fairly limited memory, but this isn't too relevant for the problem at large. Then when reallocating a type of traffic from one node to another, that new node would have to relearn what the old one knew to be as good (assuming physical topology is not also a hindrance). Thus when you decide to reallocate because of fx. a hit in QoS because of high traffic to a node, you have to compare with the additional hit in QoS through reallocation. You'd then want to reallocate traffic (types) whenever it isn't currently in demand i.e. you'd need oracle powers. 
