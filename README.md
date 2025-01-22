@@ -44,6 +44,7 @@ Contents:
 - [Riot Tech Blog: Improving Performance by Streamlining League’s Server Selection](https://www.riotgames.com/en/news/tech-blog-cpu-usage)
 - [Locality-Aware Scheduling for Containers in Cloud Computing](https://ieeexplore.ieee.org/document/8259462)
 - [Load Balancing for Interdependent IoT Microservices](https://ruozhouy.github.io/docs/infocom-19-paper.pdf)
+- [Consistent User-Traffic Allocation and Load Balancing in Mobile Edge Caching](https://arxiv.org/pdf/1904.07018)
 
 
 ## 2024 K8s Papers
