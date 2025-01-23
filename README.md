@@ -45,6 +45,7 @@ Contents:
 - [Locality-Aware Scheduling for Containers in Cloud Computing](https://ieeexplore.ieee.org/document/8259462)
 - [Load Balancing for Interdependent IoT Microservices](https://ruozhouy.github.io/docs/infocom-19-paper.pdf)
 - [Consistent User-Traffic Allocation and Load Balancing in Mobile Edge Caching](https://arxiv.org/pdf/1904.07018)
+- [A Robust Service Mapping Scheme for Multi-Tenant Clouds](http://staff.ustc.edu.cn/~zgm1993/papers/2021+ToN+A%20Robust%20Service%20Mapping%20Scheme%20for%20Multi-Tenant%20Clouds.pdf)
 
 
 ## 2024 K8s Papers
