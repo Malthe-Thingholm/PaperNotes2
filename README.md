@@ -48,6 +48,7 @@ Contents:
 - [A Robust Service Mapping Scheme for Multi-Tenant Clouds](http://staff.ustc.edu.cn/~zgm1993/papers/2021+ToN+A%20Robust%20Service%20Mapping%20Scheme%20for%20Multi-Tenant%20Clouds.pdf)
 - [A distributed dynamic load balancer for iterative applications](https://typeset.io/pdf/a-distributed-dynamic-load-balancer-for-iterative-kzrcst51vm.pdf)*
 - [LOAD BALANCING TECHNIQUES IN CLOUD: A REVIEW](https://www.jetir.org/papers/JETIR1808252.pdf)
+- [LOAD BALANCING IN CLOUD COMPUTING: A REVIEW STUDY](https://ijcrt.org/papers/IJCRT1812765.pdf)
 
 
 ## 2024 K8s Papers
