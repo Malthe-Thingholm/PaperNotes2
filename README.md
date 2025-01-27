@@ -88,6 +88,7 @@ Contents:
 - [Advantages and challenges of adopting cloud computing from an enterprise perspective INTER-ENG 2013](https://www.researchgate.net/publication/275539197_Advantages_and_Challenges_of_Adopting_Cloud_Computing_from_an_Enterprise_Perspective)
 - [Markov games as a framework for multi-agent reinforcement learning](https://courses.cs.duke.edu/spring07/cps296.3/littman94markov.pdf)
 - [Deep Reinforcement Learning-Based Resource Management in Maritime Communication Systems](https://www.mdpi.com/1424-8220/24/7/2247)
+- [A Tour of C++, Chapters 1-6](https://www.stroustrup.com/Tour.html)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
