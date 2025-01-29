@@ -1,0 +1,7 @@
+# Game Theory for Distributed IoV Task Offloading With Fuzzy Neural Network in Edge Computing
+Game Theory for Distributed IoV Task Offloading With Fuzzy Neural Network in Edge Computing [https://www.researchgate.net/publication/359313906_Game_Theory_for_Distributed_IoV_Task_Offloading_with_Fuzzy_Neural_Network_in_Edge_Computing](https://www.researchgate.net/publication/359313906_Game_Theory_for_Distributed_IoV_Task_Offloading_with_Fuzzy_Neural_Network_in_Edge_Computing)
+
+Lovely paper, the specific situation they're handling requires a couple of divergences from what I'll comment on. 
+The concept of utilizing edge computing for offloading the actor part in a game mechanism is super fitting. It can mitigate tampering etc. Then using a secondary layer for the compute heavy part (prediction engine/relevant part of the mechanism edges) when the agents only have a minimum of local computing power. 
+
+The idea of utilizing RL/ML for continually calculating edges in a directed graph is slightly less unique, but no less great. The specific way they do it in this paper might seem slightly nonsensical until you realize that their dataset is from the Chinese government for traffic at a set of locations throughout a city. A better approach in less-documented areas for a similar scenario might take the form of participating agents swapping their intended destination for updated edge-weight predictions from the Cloud component.
