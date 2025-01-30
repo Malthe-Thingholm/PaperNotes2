@@ -1,0 +1,8 @@
+# Agent-Based Virtual Machine Migration for Load Balancing and Co-Resident Attack in Cloud Computing
+Agent-Based Virtual Machine Migration for Load Balancing and Co-Resident Attack in Cloud Computing [https://www.mdpi.com/2076-3417/13/6/3703](https://www.mdpi.com/2076-3417/13/6/3703)
+
+Cool paper, that I do not view as having a practical application. The threats outlined in it seem very reasonable though. 
+
+So the idea of a malicious user getting infected VM's onto the same nodes as good VM's (maybe even outside the same cluster, but on same physical nodes), allows for them to do multiple things whether it be throttling, accessing vulnerable resources, or doing attacks bypassing some security measures. Their algorithm I'd call a 'fleeing' algorithm moves VM's around through an agent-based approach where they seek to maximize their utility whilst evading suspect behaviour (yay game theory applictation). Fundamentally this should be under the purview of the scheduler and not load balancing via rescheduling, unless the state matters such that it's actual migration and not mere rescheduling. But this approach i kinda only see working in non-crowded environments, and additionally only huge clusters/environments really get much use out of being decentralized to this degree.
+
+Wrt. the attacks some thoughts were prompted. Is it possible to 'choke' out a pod by intercepting all traffic, then get that space allocated by the machine (assuming it's a third party providing the platform/hardware), and then try and mine data/fish for info to use against other live nodes. I.e what kinda cleanup actually happens after a rescheduling from the platform POV (and for that matter from the clusters POV if they lose connection).
