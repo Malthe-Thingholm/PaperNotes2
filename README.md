@@ -51,6 +51,7 @@ Contents:
 - [LOAD BALANCING IN CLOUD COMPUTING: A REVIEW STUDY](https://ijcrt.org/papers/IJCRT1812765.pdf)
 - [Game Theory for Distributed IoV Task Offloading with Fuzzy Neural Network in Edge Computing](https://www.researchgate.net/publication/359313906_Game_Theory_for_Distributed_IoV_Task_Offloading_with_Fuzzy_Neural_Network_in_Edge_Computing)
 - [Multi-Agent Reinforcement Learning for Network Load Balancing in Data Center](https://arxiv.org/abs/2201.11727)*
+- [Agent-Based Virtual Machine Migration for Load Balancing and Co-Resident Attack in Cloud Computing](https://www.mdpi.com/2076-3417/13/6/3703)
 
 
 ## 2024 K8s Papers
