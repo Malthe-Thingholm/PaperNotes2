@@ -54,6 +54,7 @@ Contents:
 - [Agent-Based Virtual Machine Migration for Load Balancing and Co-Resident Attack in Cloud Computing](https://www.mdpi.com/2076-3417/13/6/3703)
 - [Service-Oriented Computing: Concepts, Characteristics and Directions](https://www.researchgate.net/publication/262308599_Service_-Oriented_Computing_Concepts_Characteristics_and_Directions)
 - [SERVICE-ORIENTED COMPUTING: A RESEARCH ROADMAP](https://www.iaas.uni-stuttgart.de/publications/ART-2008-15-SOC-Research-Roadmap-IJCIS.pdf)
+- [A Systematic Mapping Study in Microservice Architecture](https://cris.brighton.ac.uk/ws/portalfiles/portal/428831/PID4474889.pdf)*
 
 
 ## 2024 K8s Papers
