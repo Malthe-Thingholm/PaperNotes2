@@ -55,6 +55,7 @@ Contents:
 - [Service-Oriented Computing: Concepts, Characteristics and Directions](https://www.researchgate.net/publication/262308599_Service_-Oriented_Computing_Concepts_Characteristics_and_Directions)
 - [SERVICE-ORIENTED COMPUTING: A RESEARCH ROADMAP](https://www.iaas.uni-stuttgart.de/publications/ART-2008-15-SOC-Research-Roadmap-IJCIS.pdf)
 - [A Systematic Mapping Study in Microservice Architecture](https://cris.brighton.ac.uk/ws/portalfiles/portal/428831/PID4474889.pdf)*
+- [CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study](https://mdipenta.github.io/files/icsme2021.pdf)*
 
 
 ## 2024 K8s Papers
