@@ -56,6 +56,7 @@ Contents:
 - [SERVICE-ORIENTED COMPUTING: A RESEARCH ROADMAP](https://www.iaas.uni-stuttgart.de/publications/ART-2008-15-SOC-Research-Roadmap-IJCIS.pdf)
 - [A Systematic Mapping Study in Microservice Architecture](https://cris.brighton.ac.uk/ws/portalfiles/portal/428831/PID4474889.pdf)*
 - [CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study](https://mdipenta.github.io/files/icsme2021.pdf)*
+- [Secure yet usable: Protecting servers and Linux container](https://www.researchgate.net/publication/305695750_Secure_yet_usable_Protecting_servers_and_Linux_containers)
 
 
 ## 2024 K8s Papers
