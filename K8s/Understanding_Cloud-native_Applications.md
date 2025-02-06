@@ -1,0 +1,4 @@
+# Understanding Cloud-native Applications after 10 Years of Cloud Computing - A Systematic Mapping Study
+Understanding Cloud-native Applications after 10 Years of Cloud Computing - A Systematic Mapping Study [https://www.researchgate.net/publication/312045183_Understanding_Cloud-native_Applications_after_10_Years_of_Cloud_Computing_-_A_Systematic_Mapping_Study](https://www.researchgate.net/publication/312045183_Understanding_Cloud-native_Applications_after_10_Years_of_Cloud_Computing_-_A_Systematic_Mapping_Study)
+
+Fine paper. Mostly about defining the common nomenclature (not that useful almost ten years later, but that is no fault of the paper). Contains a very nice recommended section, including a series of books and papers on patterns in cloud-native/cloud computing that seem promising.
