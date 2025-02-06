@@ -58,6 +58,7 @@ Contents:
 - [CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study](https://mdipenta.github.io/files/icsme2021.pdf)*
 - [Secure yet usable: Protecting servers and Linux container](https://www.researchgate.net/publication/305695750_Secure_yet_usable_Protecting_servers_and_Linux_containers)
 - [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
+- [Understanding cloud-native applications after 10 years of cloud computing - A systematic mapping study](https://www.researchgate.net/publication/312045183_Understanding_Cloud-native_Applications_after_10_Years_of_Cloud_Computing_-_A_Systematic_Mapping_Study)*
 
 
 ## 2024 K8s Papers
