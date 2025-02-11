@@ -61,6 +61,7 @@ Contents:
 - [Understanding cloud-native applications after 10 years of cloud computing - A systematic mapping study](https://www.researchgate.net/publication/312045183_Understanding_Cloud-native_Applications_after_10_Years_of_Cloud_Computing_-_A_Systematic_Mapping_Study)*
 - [Cloud Patterns (Book Chapter)](https://www.researchgate.net/publication/311857248_Cloud_Patterns)
 - [MODAClouds: A model-driven approach for the design and execution of applications on multiple Clouds](https://www.researchgate.net/publication/239763583_MODAClouds_A_model-driven_approach_for_the_design_and_execution_of_applications_on_multiple_Clouds)
+- [Traffic-Aware Horizontal Pod Autoscaler in Kubernetes-Based Edge Computing Infrastructure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709810)
 
 
 ## 2024 K8s Papers
