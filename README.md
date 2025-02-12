@@ -62,6 +62,7 @@ Contents:
 - [Cloud Patterns (Book Chapter)](https://www.researchgate.net/publication/311857248_Cloud_Patterns)
 - [MODAClouds: A model-driven approach for the design and execution of applications on multiple Clouds](https://www.researchgate.net/publication/239763583_MODAClouds_A_model-driven_approach_for_the_design_and_execution_of_applications_on_multiple_Clouds)
 - [Traffic-Aware Horizontal Pod Autoscaler in Kubernetes-Based Edge Computing Infrastructure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709810)
+- [ENTS: An Edge-native Task Scheduling System for Collaborative Edge Computing](https://arxiv.org/abs/2210.07842)
 
 
 ## 2024 K8s Papers
