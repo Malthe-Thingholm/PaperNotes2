@@ -64,6 +64,7 @@ Contents:
 - [Traffic-Aware Horizontal Pod Autoscaler in Kubernetes-Based Edge Computing Infrastructure](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709810)
 - [ENTS: An Edge-native Task Scheduling System for Collaborative Edge Computing](https://arxiv.org/abs/2210.07842)
 - [Local Scheduling in KubeEdge-Based Edge Computing Environment](https://www.mdpi.com/1424-8220/23/3/1522)*
+- [Empirical Analysis on CI/CD Pipeline Evolution in Machine Learning Projects](https://arxiv.org/abs/2403.12199v1)
 
 
 ## 2024 K8s Papers
