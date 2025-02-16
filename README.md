@@ -104,6 +104,7 @@ Contents:
 
 - [A Survey of DevOps Concepts and Challenges](https://arxiv.org/pdf/1909.05409)*
 - [A Mapping Study on Cooperation between Information System Development and Operations](https://link.springer.com/chapter/10.1007/978-3-319-13835-0_21)
+- [DORA 2024](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf)
 
 
 # Assorted
