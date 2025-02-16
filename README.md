@@ -9,6 +9,8 @@ Contents:
     - [2025 Papers](#2025-RAN-Papers)
 - [Microprocessor](#Microprocessor)
     - [2025 Papers](#2025-MP-Papers)
+- [DevOps](#DevOps)
+    - [2025 Papers](#2025-DO-papers)
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
 
@@ -96,6 +98,14 @@ Contents:
 ## 2025 MP Papers
 - [Reverse Engineering x86 Processor Microcode](https://arxiv.org/pdf/1910.00948)
 
+# DevOps
+
+## 2025 DO Papers
+
+- [A Survey of DevOps Concepts and Challenges](https://arxiv.org/pdf/1909.05409)*
+- [A Mapping Study on Cooperation between Information System Development and Operations](https://link.springer.com/chapter/10.1007/978-3-319-13835-0_21)
+
+
 # Assorted
 
 ## 2025 Assorted Papers
@@ -106,7 +116,6 @@ Contents:
 - [Deep Reinforcement Learning-Based Resource Management in Maritime Communication Systems](https://www.mdpi.com/1424-8220/24/7/2247)
 - [A Tour of C++, Chapters 1-6](https://www.stroustrup.com/Tour.html)
 - [FDSPC: Fast and Direct Smooth Path Planning via Continuous Curvature Integration](https://arxiv.org/abs/2405.03281v1)
-- [A Survey of DevOps Concepts and Challenges](https://arxiv.org/pdf/1909.05409)*
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
