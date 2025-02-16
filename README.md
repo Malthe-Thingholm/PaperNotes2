@@ -106,6 +106,7 @@ Contents:
 - [Deep Reinforcement Learning-Based Resource Management in Maritime Communication Systems](https://www.mdpi.com/1424-8220/24/7/2247)
 - [A Tour of C++, Chapters 1-6](https://www.stroustrup.com/Tour.html)
 - [FDSPC: Fast and Direct Smooth Path Planning via Continuous Curvature Integration](https://arxiv.org/abs/2405.03281v1)
+- [A Survey of DevOps Concepts and Challenges](https://arxiv.org/pdf/1909.05409)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
