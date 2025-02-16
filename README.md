@@ -106,6 +106,7 @@ Contents:
 - [A Mapping Study on Cooperation between Information System Development and Operations](https://link.springer.com/chapter/10.1007/978-3-319-13835-0_21)
 - [DORA 2024](https://services.google.com/fh/files/misc/2024_final_dora_report.pdf)
 - [Emerging Trends for Global DevOps: A New Zealand Perspective](https://arxiv.org/abs/2104.00881)
+- [A Qualitative Study of DevOps Usage in Practice](https://www.researchgate.net/publication/316879884_A_Qualitative_Study_of_DevOps_Usage_in_Practice)
 
 
 # Assorted
