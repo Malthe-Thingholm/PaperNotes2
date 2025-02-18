@@ -92,6 +92,7 @@ Contents:
 - [NeutRAN: An Open RAN Neutral Host Architecture for Zero-Touch RAN and Spectrum Sharing](https://arxiv.org/pdf/2301.07653)
 - [5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks](https://arxiv.org/pdf/2311.03206)
 - [ScalO-RAN: Energy-aware Network Intelligence Scaling in Open RAN](https://arxiv.org/pdf/2312.05096)
+- [Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks](https://arxiv.org/abs/2110.04320)
 
 # Microprocessor
 
