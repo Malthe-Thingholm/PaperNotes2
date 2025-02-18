@@ -1,0 +1,4 @@
+# Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks
+Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks [https://arxiv.org/abs/2110.04320](https://arxiv.org/abs/2110.04320)
+
+Big boy paper! Using Lagrangian Dual/primary whilst inserting a few constraints into a highly multidimensional wrt. variables optimization makes sense (i think). Having DL then approximate the weightings is where it gets a bit shaky from the theory I know. In general i may simply be missing pieces of the overall puzzle wrt. what they're actually doing in this segment, as their algorithm is only meant to be a part of a larger whole. But in general this seems like it'll both over-train and be very weak to malicious user attacks when doing the live updating.
