@@ -1,0 +1,4 @@
+# EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning
+EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning [https://arxiv.org/abs/2003.12911](https://arxiv.org/abs/2003.12911)
+
+Very cool paper. Explains/gives context to a lot of things presumed in the last paper ('constraint-aware deep reinforcement'). Particularly how constraints are formed and such. The separation of the constraint-giving and the DRL (i.e. splitting it out into performance coordinator in this paper) makes a lot of sense. Their choice of reward function is interesting and hard to comment on. That it seems to function as a 'divergence from optimal state' calculation instead of minimization of direct performance index, might make it more robust wrt. becoming non-cooperative with other slices. If that isn't the case.
