@@ -93,6 +93,7 @@ Contents:
 - [5G-CT: Automated Deployment and Over-the-Air Testing of End-to-End Open Radio Access Networks](https://arxiv.org/pdf/2311.03206)
 - [ScalO-RAN: Energy-aware Network Intelligence Scaling in Open RAN](https://arxiv.org/pdf/2312.05096)
 - [Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks](https://arxiv.org/abs/2110.04320)
+- [EdgeSlice: Slicing Wireless Edge Computing Network with Decentralized Deep Reinforcement Learning](https://arxiv.org/abs/2003.12911)
 
 # Microprocessor
 
