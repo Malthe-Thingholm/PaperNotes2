@@ -121,6 +121,7 @@ Contents:
 - [Deep Reinforcement Learning-Based Resource Management in Maritime Communication Systems](https://www.mdpi.com/1424-8220/24/7/2247)
 - [A Tour of C++, Chapters 1-6](https://www.stroustrup.com/Tour.html)
 - [FDSPC: Fast and Direct Smooth Path Planning via Continuous Curvature Integration](https://arxiv.org/abs/2405.03281v1)
+- [Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX)](https://arxiv.org/abs/1810.11482)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
