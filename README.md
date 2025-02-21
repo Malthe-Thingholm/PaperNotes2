@@ -11,7 +11,7 @@ Contents:
     - [2025 Papers](#2025-MP-Papers)
 - [DevOps](#DevOps)
     - [2025 Papers](#2025-DO-papers)
-- [CUDA](#CUDA/GPU)
+- [CUDA](#CUDA\/GPU)
     - [2025 Papers](#2025-CUDA-papers)
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
