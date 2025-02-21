@@ -11,7 +11,7 @@ Contents:
     - [2025 Papers](#2025-MP-Papers)
 - [DevOps](#DevOps)
     - [2025 Papers](#2025-DO-papers)
-- [CUDA](#CUDA\/GPU)
+- [CUDA](#CUDA-and-GPU)
     - [2025 Papers](#2025-CUDA-papers)
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
@@ -112,7 +112,7 @@ Contents:
 - [Emerging Trends for Global DevOps: A New Zealand Perspective](https://arxiv.org/abs/2104.00881)
 - [A Qualitative Study of DevOps Usage in Practice](https://www.researchgate.net/publication/316879884_A_Qualitative_Study_of_DevOps_Usage_in_Practice)
 
-# CUDA/GPU
+# CUDA and GPU
 
 ## 2025 CUDA Papers
 
