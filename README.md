@@ -11,6 +11,8 @@ Contents:
     - [2025 Papers](#2025-MP-Papers)
 - [DevOps](#DevOps)
     - [2025 Papers](#2025-DO-papers)
+- [CUDA](#CUDA)
+    - [2025 Papers](#2025-CUDA-papers)
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
 
@@ -110,6 +112,13 @@ Contents:
 - [Emerging Trends for Global DevOps: A New Zealand Perspective](https://arxiv.org/abs/2104.00881)
 - [A Qualitative Study of DevOps Usage in Practice](https://www.researchgate.net/publication/316879884_A_Qualitative_Study_of_DevOps_Usage_in_Practice)
 
+# CUDA/GPU
+
+## 2025 CUDA Papers
+
+- [Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX)](https://arxiv.org/abs/1810.11482)
+- [CUDACLAW: A high-performance programmable GPU framework for the solution of hyperbolic PDEs](https://arxiv.org/abs/1805.08846)*
+
 
 # Assorted
 
@@ -121,7 +130,6 @@ Contents:
 - [Deep Reinforcement Learning-Based Resource Management in Maritime Communication Systems](https://www.mdpi.com/1424-8220/24/7/2247)
 - [A Tour of C++, Chapters 1-6](https://www.stroustrup.com/Tour.html)
 - [FDSPC: Fast and Direct Smooth Path Planning via Continuous Curvature Integration](https://arxiv.org/abs/2405.03281v1)
-- [Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX)](https://arxiv.org/abs/1810.11482)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
