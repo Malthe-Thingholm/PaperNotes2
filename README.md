@@ -119,6 +119,7 @@ Contents:
 - [Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX)](https://arxiv.org/abs/1810.11482)
 - [CUDACLAW: A high-performance programmable GPU framework for the solution of hyperbolic PDEs](https://arxiv.org/abs/1805.08846)*
 - [Accelerating wave-propagation algorithms with adaptive mesh refinement using the Graphics Processing Unit (GPU)](https://arxiv.org/abs/1808.02638)
+- [ElegantRL-Podracer: Scalable and Elastic Library for Cloud-Native Deep Reinforcement Learning](https://arxiv.org/abs/2112.05923)
 
 
 # Assorted
