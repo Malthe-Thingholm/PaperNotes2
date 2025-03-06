@@ -134,6 +134,7 @@ Contents:
 - [FDSPC: Fast and Direct Smooth Path Planning via Continuous Curvature Integration](https://arxiv.org/abs/2405.03281v1)
 - [Clawpack: Building an open source ecosystem for solving hyperbolic PDEs](https://www.researchgate.net/publication/310824959_Clawpack_Building_an_open_source_ecosystem_for_solving_hyperbolic_PDEs)
 - [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://arxiv.org/abs/2011.09607)
+- [FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance](https://arxiv.org/abs/2111.05188)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
