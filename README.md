@@ -136,7 +136,8 @@ Contents:
 - [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance](https://arxiv.org/abs/2011.09607)
 - [FinRL-Podracer: High Performance and Scalable Deep Reinforcement Learning for Quantitative Finance](https://arxiv.org/abs/2111.05188)*
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260)
-- [Edge SpAIce: Enabling Onboard Data Compression With Machine Learning On FPGAs Creators](https://zenodo.org/records/13865939)
+- [Edge SpAIce: Enabling Onboard Data Compression With Machine Learning On FPGAs Creators](https://zenodo.org/records/13865939)*
+- [Real-time semantic segmentation on FPGAs for autonomous vehicles with hls4ml](https://arxiv.org/abs/2205.07690)*
 
 
 
