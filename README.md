@@ -138,6 +138,7 @@ Contents:
 - [Horizon: Facebook's Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260)
 - [Edge SpAIce: Enabling Onboard Data Compression With Machine Learning On FPGAs Creators](https://zenodo.org/records/13865939)*
 - [Real-time semantic segmentation on FPGAs for autonomous vehicles with hls4ml](https://arxiv.org/abs/2205.07690)*
+- [Opportunities and challenges of on-board AI-based image recognition for small satellite Earth observation missions](https://ltu.diva-portal.org/smash/record.jsf?dswid=-9754)
 
 
 
