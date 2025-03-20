@@ -140,6 +140,7 @@ Contents:
 - [Real-time semantic segmentation on FPGAs for autonomous vehicles with hls4ml](https://arxiv.org/abs/2205.07690)*
 - [Opportunities and challenges of on-board AI-based image recognition for small satellite Earth observation missions](https://ltu.diva-portal.org/smash/record.jsf?dswid=-9754)
 - [A survey on FPGA-based accelerator for ML models](https://arxiv.org/abs/2412.15666)*
+- [An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges](https://www.mdpi.com/2076-3417/13/3/1956)*
 
 
 
