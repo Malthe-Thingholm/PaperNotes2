@@ -16,6 +16,11 @@ Contents:
 - [Assorted](#Assorted)
     - [2025 Papers](#2025-Assorted-papers)
 
+# Longer Form, books, thesis, etc.
+
+## 2025 Long
+- [Productive FPGA Programming for High-Performance Computing](https://www.research-collection.ethz.ch/handle/20.500.11850/536674)*
+
 # Kubernetes
 
 ## 2025 K8s Papers
